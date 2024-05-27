@@ -1,4 +1,4 @@
-Boaeder Touch:
+Border Touch:
 
 https://github.com/Prashanna-Raj-Pandit/SnakeGame/assets/108394628/0f809be1-afc7-46cd-bd7a-1b6224f36f10
 
